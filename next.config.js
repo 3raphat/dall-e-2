@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ['oaidalleapiprodscus.blob.core.windows.net', 'picsum.photos']
+    domains: ['via.placeholder.com', 'source.unsplash.com']
   },
   env: {
     OPENAI_API_KEY: process.env.OPENAI_API_KEY,
